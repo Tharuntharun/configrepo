@@ -1,0 +1,11 @@
+mail:
+    host: smtp.gmail.com
+    port: 587
+    username: tharuntharu212@gmail.com
+    password: thlpgnslfyyhqwkq
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
