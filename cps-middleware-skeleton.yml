@@ -2,7 +2,7 @@ mail:
     host: smtp.gmail.com
     port: 587
     username: tharuntharu212@gmail.com
-    password: thlpgnslfyyhqwkq
+    password: 
     properties:
       mail:
         smtp:
